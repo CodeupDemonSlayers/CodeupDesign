@@ -15,6 +15,18 @@ body {
     background-color: #F0F0F0;
 }
 
+.pill{
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    line-height: 90px;
+    border: 6px solid white;
+    color: white;
+    font-weight: bold;
+    font-family: Anton;
+
+}
+
 .pill-1 {
     background-color: #E6563B;
 }
