@@ -40,3 +40,26 @@ body {
 .pill-4 {
     background-color: #00ABA9;
 }
+.img-color {
+    background: #E6E6E6;
+}
+.red {
+    background: #E6563B;
+}
+
+.orange {
+    background: #EB9B3A;
+}
+
+.green {
+    background: #7CB06C;
+}
+.blue {
+    background: #00ABA9;
+}
+
+.small-pill {
+    font-family: anton;
+    font-weight: bold;
+}
+
