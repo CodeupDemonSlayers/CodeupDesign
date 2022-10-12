@@ -69,3 +69,7 @@ body {
 .the_last_text{
     font-family: Anton;
 }
+
+.img-height {
+    max-height: 263px;
+}
